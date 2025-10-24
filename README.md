@@ -7,7 +7,7 @@ This repository highlights my analytical and epidemiological work using real-wor
 ---
 
 ## 📊 Featured Projects
-- **STI Surveillance Analysis (2020–2022)** – Trend analysis of sexually transmitted infections by demographics and region, using R, SAS, and Tableau.  
+- **STI Surveillance Analysis (2021–2023)** – Trend analysis of sexually transmitted infections by demographics and region, using R, SAS, and Tableau.  
 - **Maternal Health & Obesity Study (2020–2022)** – Examining the relationship between pre-pregnancy obesity, low income, and infant mortality among Black women in the U.S., analyzed with SPSS and Power BI.
 
 ---
