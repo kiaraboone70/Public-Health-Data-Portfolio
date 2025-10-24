@@ -1,5 +1,5 @@
 # 🩺 Kiara Boone, MPH
-**Public Health Data Analyst | Epidemiologist | Research Professional**
+**Public Health Data Analyst | Epidemiology Focus | Research Professional**
 
 Welcome to my Public Health Data Portfolio!  
 This repository highlights my analytical and epidemiological work using real-world datasets, demonstrating my technical proficiency in R, SAS, SPSS, SQL, Excel, Tableau, and Power BI.
