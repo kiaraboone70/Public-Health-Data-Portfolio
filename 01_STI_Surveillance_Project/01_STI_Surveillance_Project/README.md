@@ -31,8 +31,27 @@ Additional variables may include age group or data notes, depending on the CDC e
 ### Notes
 Data from 2020–2021 were impacted by COVID-19 testing and reporting disruptions. To ensure stability in year-to-year comparisons, this analysis focuses on data from **2021–2023**, which reflect more normalized surveillance and testing patterns.
 
-### Key Findings (to be updated)
-- TBD – After analysis completion  
+## 🔍 Key Findings (2021–2023): STI Trends by Sex
+
+**Chlamydia**
+- Rates increased gradually for both males and females from 2021 to 2023.  
+- Females consistently showed **significantly higher case rates** than males, aligning with national surveillance patterns.  
+- The most notable rise occurred between **2021 and 2022**, suggesting possible effects of post-pandemic testing normalization.
+
+**Gonorrhea**
+- Males exhibited **higher gonorrhea rates** than females across all three years.  
+- Both sexes showed a **modest decline** from 2021 to 2023, possibly reflecting improved treatment and awareness campaigns.
+
+**Primary & Secondary Syphilis**
+- Syphilis rates were higher among males, continuing a known epidemiologic trend.  
+- A **notable surge** occurred between 2021 and 2022, likely influenced by post-COVID disruptions in care.  
+- By 2023, rates began to **decline**, suggesting targeted public health interventions may have been effective.
+
+---
+
+**Summary Insight:**  
+Across all three infections, **gender disparities remain evident**, with females bearing a heavier burden of chlamydia and males showing higher gonorrhea and syphilis rates. The stabilization and modest declines after 2022 may signal successful control and prevention strategies following pandemic-related disruptions.
+  
 
 ### Files Included
 - `STI_Surveillance_2021_2023.csv` – raw data  
