@@ -20,6 +20,6 @@ This repository highlights my analytical and epidemiological work using real-wor
 ---
 
 ## 📬 Contact
-📧 **Email:** [insert your professional email here]  
-🌐 **LinkedIn:** [insert your LinkedIn URL]  
+📧 **Email:** Kiaraboone70@gmail.com  
+🌐 **LinkedIn:** www.linkedin.com/in/kiaraboone27  
 📍 Atlanta, GA  
