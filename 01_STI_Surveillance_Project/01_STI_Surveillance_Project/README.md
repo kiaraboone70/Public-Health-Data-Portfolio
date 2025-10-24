@@ -11,6 +11,22 @@ Analyze sexually transmitted infection (STI) trends in Georgia and the U.S. (202
   - Trend analysis and visualization  
   - Rate comparisons by year and population group  
   - Highlighting patterns in STI rate increases or decreases post-pandemic
+    
+### Variables Used
+The dataset includes the following core variables extracted from CDC NCHHSTP AtlasPlus:
+
+| Variable | Description |
+|-----------|--------------|
+| **Year** | Reporting year (2021–2023) |
+| **State / Location** | U.S. state or territory where cases were reported |
+| **Disease** | Type of STI (Chlamydia, Gonorrhea, Primary & Secondary Syphilis) |
+| **Sex** | Reported sex of cases (Male, Female, Unknown) |
+| **Race/Ethnicity** | Reported racial or ethnic category |
+| **Cases** | Number of reported STI cases |
+| **Rate per 100,000** | Calculated rate of cases per 100,000 population |
+| **Population** | Population denominator for rate calculation |
+
+Additional variables may include age group or data notes, depending on the CDC export options selected.
 
 ### Notes
 Data from 2020–2021 were impacted by COVID-19 testing and reporting disruptions. To ensure stability in year-to-year comparisons, this analysis focuses on data from **2021–2023**, which reflect more normalized surveillance and testing patterns.
