@@ -55,11 +55,14 @@ Data from 2020–2021 were impacted by COVID-19 testing and reporting disruption
 Across all three infections, **gender disparities remain evident**, with females bearing a heavier burden of chlamydia and males showing higher gonorrhea and syphilis rates. The stabilization and modest declines after 2022 may signal successful control and prevention strategies following pandemic-related disruptions.
   
 
-### Files Included
-- `STI_Surveillance_2021_2023.csv` – raw data  
-- `STI_Surveillance_Analysis_2021_2023.R` – R script  
-- `STI_Surveillance_Dashboard_2021_2023.twb` – Tableau dashboard  
-- `STI_Surveillance_Summary_2021_2023.pdf` – project summary brief  
+### 📈 Visualizations  
+
+**Figure 1. Overall STI Trends (2021–2023)**  
+![STI Overall Trends](figures/sti_trend_overall_2021_2023.png)
+
+**Figure 2. STI Trends by Sex (2023)**  
+![STI Trends by Sex](figures/sti_trend_by_sex_facets_2023.png)
+
 
 ---
 
