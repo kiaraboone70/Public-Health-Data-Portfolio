@@ -48,10 +48,8 @@ Data from 2020–2021 were impacted by COVID-19 testing and reporting disruption
 - By 2023, rates began to **decline**, suggesting targeted public health interventions may have been effective.
 
 ---
-## 📄 Reports (1-Page Summaries)
-- **Academic (CDC-style):** [STI_Surveillance_Report_Academic.pdf](./docs/STI_Surveillance_Report_Academic.pdf)
-- **Portfolio (Recruiter-friendly):** [STI_Surveillance_Report_Portfolio.pdf](./docs/STI_Surveillance_Report_Portfolio.pdf)
-- **Data Storytelling (KiBae palette):** [STI_Surveillance_Report_Storytelling.pdf](./docs/STI_Surveillance_Report_Storytelling.pdf)
+## 📄 Reports (1-Page Summary)
+- **Academic :** [STI_Surveillance_Report_Academic.pdf](./docs/STI_Surveillance_Report_Academic.pdf)
 
 **Summary Insight:**  
 Across all three infections, **gender disparities remain evident**, with females bearing a heavier burden of chlamydia and males showing higher gonorrhea and syphilis rates. The stabilization and modest declines after 2022 may signal successful control and prevention strategies following pandemic-related disruptions.
